@@ -18,5 +18,5 @@ Me chamo Murilo Scalon e atualmente trabalho com T.I. na área de:
 <p><b>Iniciando aprendizado em:</b></p>
 <p><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-js"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" /> </p>
 
-[![Murilo Scalon stats](https://github-readme-stats.vercel.app/api?username=murilo-scalon)](https://github.com/anuraghazra/github-readme-stats)
+
  
